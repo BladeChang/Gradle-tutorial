@@ -7,4 +7,10 @@
   老魯的目錄是D:\Gradle\gradle-2.1
   
 3.新增環境變數
+    新增系統變數
+      變數名稱:GRADLE_HOME
+        變數值:D:\Gradle\gradle-2.1
+    修改系統變數Path
+      新增變數值:%Gradle_Home%\bin
+  
   
