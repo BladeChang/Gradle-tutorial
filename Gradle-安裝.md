@@ -1,4 +1,4 @@
-#Gradle 安裝
+# Gradle 安裝
 
 1.先至官網下載Gradle 
   https://services.gradle.org/distributions/gradle-2.2.1-all.zip 
